@@ -1,5 +1,11 @@
 {
- "assets": {},
+ "assets": {
+  "worn_cracked_plaster": "d85f5d7f59ec87f109c992323ac810173847f1b8",
+  "worn_mossy_plasterwall": "5c1c8f3f56a7a815a748a452761d0fe377faadd6",
+  "worn_plaster_wall": "d8128c74c6a74b45bda6763d66542198c8ceb9e4",
+  "yellow_plaster": "7415835df3c77a9a0ead6b0684e62641fcc7039e",
+  "yellow_plaster_02": "655315d7184c6529e406afdf264e12c3cb6300ac"
+ },
  "license": "https://polyhaven.com/license",
  "site": "https://polyhaven.com",
  "source": "polyhaven",
